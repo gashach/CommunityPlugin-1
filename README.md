@@ -5,38 +5,39 @@
 
 **Tutorials:**
 
-The Framework Part 1 - https://drive.google.com/file/d/1nBGG5AzUsoUA2_Vo8s2NjiyHiynMvjFm/view?usp=sharing
-Installing the Plugin - https://drive.google.com/file/d/1y6gBqpOvgqb_0ZW59w5fp3xQhRLrDGdK/view?usp=sharing
-Reverse Engineering Encompass - https://drive.google.com/file/d/1b0JPUy5-8RCYW0Wg6seE7SkBV0HcRtZw/view?usp=sharing
+**The Framework Part 1** - https://drive.google.com/file/d/1nBGG5AzUsoUA2_Vo8s2NjiyHiynMvjFm/view?usp=sharing <br>
+**Installing the Plugin** - https://drive.google.com/file/d/1y6gBqpOvgqb_0ZW59w5fp3xQhRLrDGdK/view?usp=sharing <br>
+**Solutionizing Encompass** - https://drive.google.com/file/d/1b0JPUy5-8RCYW0Wg6seE7SkBV0HcRtZw/view?usp=sharing <br>
+**Finding Field Calculations** - https://drive.google.com/file/d/1t8a5TlaGnIpaVwi0lcK6NSAZv5eplTNS/view?usp=sharing
 
-**Introduction:** This Plugin was created as a free way for the community to have a way to modify any part of encompass. This also includes a nice single plugin structure that you can use to further develop this custom to your specifications. Please create the two custom fields as well as uploading the Settings file in IFB. 
+**Introduction:** This Plugin was created as a free way for the community to have a way to modify any part of encompass. This also includes a nice single plugin structure that you can use to further develop this custom to your specifications. Please upload the Settings file in IFB. 
 
 **Settings:** In the CommunitySettings File you will see a variety of properties you can change to suite your needs. Please at the very least update the TestServer to your test server that way you can leave the Permission->AllAccess property blank if you are just testing. 
 
 **Some of the Solutions include:**
-,Input Form Automator
-,Email Trigger Automator 
-,Task Automator using Blocking Queue
-,Home Counseling Automator
-,Open Input Forms in Separate non Dialog windows
-,Open eFolder Documents
-,Sort Alerts
-,Navigation Buttons
-,Disable Services
-,Doorbell
-,Settings Grid Search
-,Loan Folder Loan Count
-,Lock Business Rules over multiple instances
-,VIP Loans
-,Open Loans Read Only
-,Savable Pipeline Advanced Searches
-,Pipeline Recolor
-,Pipeline Loan Reassignment 
-,Show FIeldIDs when searching pipeline columns
-,Impersonate another user
-,Extract all settings from Encompass
-,Customizable Loan Side Menu
-,AND MORE
+- Input Form Automator
+- Email Trigger Automator 
+- Task Automator using Blocking Queue
+- Home Counseling Automator
+- Open Input Forms in Separate non Dialog windows
+- Open eFolder Documents
+- Sort Alerts
+- Navigation Buttons
+- Disable Services
+- Doorbell
+- Settings Grid Search
+- Loan Folder Loan Count
+- Lock Business Rules over multiple instances
+- VIP Loans
+- Open Loans Read Only
+- Savable Pipeline Advanced Searches
+- Pipeline Recolor
+- Pipeline Loan Reassignment 
+- Show FIeldIDs when searching pipeline columns
+- Impersonate another user
+- Extract all settings from Encompass
+- Customizable Loan Side Menu
+- AND MORE
 
 ## AutomateInputFormSet: 
 This is an option to setup a folder inside your InputFormSets Base Folder as 'Persona'. Inside you can create a workflow to apply IFS when a loan opens. You can use all of these prefixes and they apply in this order: 
